@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="33px" height="36px" viewBox="0 0 33 36" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 44.1 (41455) - http://www.bohemiancoding.com/sketch -->
+    <title>logo-republic-abstract</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <polygon id="path-1" points="0 35.1363316 31.8940518 35.1363316 31.8940518 0 0 0"></polygon>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" opacity="0.75999999">
+        <g id="Desktop-HD-Copy-2" transform="translate(-687.000000, -2069.000000)">
+            <g id="Page-1" transform="translate(687.767978, 2069.766553)">
+                <g id="logo-republic-abstract">
+                    <path d="M0.994818653,34.141513 L30.0702176,34.141513 L21.3020518,20.5267565 L21.7221969,20.2561658 L21.506487,19.8084974 C24.9021347,18.1723523 27.0963731,14.6765596 27.0963731,10.902715 C27.0963731,5.94072539 23.3954819,1.73015544 18.4882073,1.10855959 C17.8870052,1.02880829 16.842114,0.995316062 16.5274197,0.995316062 L0.994818653,0.994818653 L0.994818653,34.141513 Z M31.8940518,35.1363316 L0.00215544041,35.1363316 L0,34.6389223 L0,0 L9.00543005,0 L9.00543005,0.442362694 L9.00543005,0.000165803109 L16.5274197,0.000497409326 C16.7857409,0.000497409326 17.9186736,0.0296787565 18.6158756,0.121865285 C24.0165803,0.805968912 28.0911917,5.44082902 28.0911917,10.902715 C28.0911917,14.869057 25.8886632,18.5563523 22.4351503,20.4489948 L31.8940518,35.1363316 Z" id="Fill-1" fill="#FFFFFF" fill-rule="evenodd"></path>
+                    <g>
+                        <mask id="mask-2" fill="white">
+                            <use xlink:href="#path-1"></use>
+                        </mask>
+                        <g id="Clip-4"></g>
+                        <polygon id="Fill-3" fill="#FFFFFF" fill-rule="evenodd" mask="url(#mask-2)" points="0.451979275 20.7549016 21.7202073 20.7549016 21.7202073 19.7600829 0.451979275 19.7600829"></polygon>
+                        <polygon id="Fill-5" fill="#FFFFFF" fill-rule="evenodd" mask="url(#mask-2)" points="0.932642487 34.8994487 0.0877098446 34.3741845 15.0690155 10.2816663 15.9137824 10.8069306"></polygon>
+                        <polygon id="Fill-6" fill="#FFFFFF" fill-rule="evenodd" mask="url(#mask-2)" points="14.9876062 34.656829 15.9824249 34.656829 15.9824249 10.6361036 14.9876062 10.6361036"></polygon>
+                        <polygon id="Fill-7" fill="#FFFFFF" fill-rule="evenodd" mask="url(#mask-2)" points="30.5231585 34.850056 8.58094093 0.741537824 9.41774922 0.203340933 31.3599668 34.3118591"></polygon>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

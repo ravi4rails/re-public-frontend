@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="71px" height="79px" viewBox="0 0 71 79" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 42 (36781) - http://www.bohemiancoding.com/sketch -->
+    <title>blog/logo</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round">
+        <g id="blog/logo" transform="translate(2.000000, 2.000000)" stroke-width="3">
+            <polyline id="Fill-1" stroke="#1460F4" points="33.1675541 22.745716 18.6437176 0.189481048 0 0.189481048 0 43.4547009 20.0203088 43.4527985 33.1675541 22.745716"></polyline>
+            <path d="M33.1675541,22.745716 L33.0203068,22.9778112 L33.169076,22.743433 L46.513412,43.4596472 C54.1253756,39.7936835 59.3794796,31.9998486 59.3794796,22.9766698 C59.3794796,11.4050089 50.7371653,1.86132789 39.5638712,0.446688254 C38.1340122,0.25949011 35.7620747,0.190242016 35.1266664,0.190242016 L18.6440981,0.189861532 L33.1675541,22.745716" id="Fill-4" stroke="#157EF9"></path>
+            <polyline id="Fill-3" stroke="#157EF9" points="0 43.4547009 0 74.9553544 0.00342435629 74.9553544 20.0142211 43.4527985 0 43.4547009"></polyline>
+            <polyline id="Fill-7" stroke="#0CBCFC" points="20.0146016 43.4619301 0.00342435629 74.9553544 41.9837496 74.9553544 36.6668657 43.4619301 20.0146016 43.4619301"></polyline>
+            <polyline id="Fill-5" stroke="#079BFA" points="46.5092267 43.4619301 36.6668657 43.4619301 41.9837496 74.9553544 66.8015816 74.9553544 46.5092267 43.4619301"></polyline>
+            <polyline id="Fill-6" stroke="#09B6F3" points="46.5092267 43.4619301 33.169076 22.743433 36.6668657 43.4619301 46.5092267 43.4619301"></polyline>
+            <polygon id="Path-2" stroke="#1AEEE9" points="19.9900055 43.4674606 33.1628418 22.7495117 36.6589355 43.4674606"></polygon>
+        </g>
+    </g>
+</svg>

@@ -1,0 +1,41 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="3066" height="585" viewBox="0 0 3066 585">
+  <g fill="none" fill-rule="evenodd" stroke-width=".5" transform="translate(-17)">
+    <g transform="translate(775.649)">
+      <polygon stroke="#656565" points="774.265 0 1548.529 598 0 598"/>
+      <path stroke="#656565" stroke-linecap="square" d="M774.264706,0.634819533 L774.264706,597.629855"/>
+      <path stroke="#666" stroke-linecap="square" d="M581.289392,149.436518 L967.309424,149.436518"/>
+    </g>
+    <g transform="translate(.54)">
+      <polygon stroke="#656565" points="774.265 0 1548.529 598 0 598"/>
+      <path stroke="#656565" stroke-linecap="square" d="M774.264706,0.634819533 L774.264706,597.629855"/>
+      <path stroke="#666" stroke-linecap="square" d="M581.289392,149.436518 L967.309424,149.436518"/>
+    </g>
+    <g transform="translate(1550.758)">
+      <polygon stroke="#656565" points="774.265 0 1548.529 598 0 598"/>
+      <path stroke="#656565" stroke-linecap="square" d="M774.264706,0.634819533 L774.264706,597.629855"/>
+      <path stroke="#666" stroke-linecap="square" d="M581.289392,149.436518 L967.309424,149.436518"/>
+    </g>
+    <g transform="matrix(1 0 0 -1 1163.165 598.188)">
+      <polygon stroke="#656565" points="774.265 0 1548.529 598 0 598"/>
+      <path stroke="#656565" stroke-linecap="square" d="M774.264706,0.634819533 L774.264706,597.629855"/>
+      <path stroke="#666" stroke-linecap="square" d="M581.289392,149.436518 L967.309424,149.436518"/>
+    </g>
+    <g transform="matrix(1 0 0 -1 388.055 598.188)">
+      <polygon stroke="#656565" points="774.265 0 1548.529 598 0 598"/>
+      <path stroke="#656565" stroke-linecap="square" d="M774.264706,0.634819533 L774.264706,597.629855"/>
+      <path stroke="#666" stroke-linecap="square" d="M581.289392,149.436518 L967.309424,149.436518"/>
+    </g>
+    <g stroke="#656565" transform="translate(1818.014 526.94)">
+      <polygon points="24.296 0 47.629 71.081 .963 71.081"/>
+      <path stroke-linecap="square" d="M24.2960546,0.619086258 L24.2960546,70.1393554"/>
+    </g>
+    <g stroke="#656565" transform="translate(1992.866 450.102)">
+      <polygon points="48.575 0 97.146 148.086 .005 148.086"/>
+      <path stroke-linecap="square" d="M48.5754606,1.28976304 L48.5754606,146.123657"/>
+    </g>
+    <g stroke="#656565" transform="translate(2100.308 514.99)">
+      <polygon points="27.263 0 54.405 81.941 .12 81.941"/>
+      <path stroke-linecap="square" d="M27.2627574,0.713668881 L27.2627574,80.8550902"/>
+    </g>
+  </g>
+</svg>
