@@ -418,7 +418,7 @@ railse page css start here*/
   .learn-link :hover {color: #4782fb;text-decoration: underline;}
   .learn-link :after {font-family: FontAwesome;content: "\f0da";}
   .learn-link:hover:after {font-family: FontAwesome;content: "\f0da";margin-left: 2%;}
-  .nav-pills .nav-link.active, .nav-pills .show > .nav-link:after{color:#4782fb !important;background-color: transparent !important;} 
+  .nav-pills .nav-link.active, .nav-pills .show > .nav-link:after{color:#4782fb !important;background-color: transparent!important;} 
   .exp-text1:hover:before {font-family: FontAwesome;content: "\f0da"; font-size: 30px;color:#1560fa;}
   .exp-text1:hover{color:#1560fa; }
   .v-pill1-text{font-size: 48px;}.v-pill1-para{font-size: 16.9px;color: #282f44;font-weight: normal;}
@@ -470,6 +470,7 @@ railse page css start here*/
     .fa-caret-down {font-size: 18px;}
     .form-control:focus { outline: none !important;border-color: blue;box-shadow: none;}
     .collapse-chevron{margin-left: -3%;}
+    .how-it-wotks-sidebar{font-size: 20px;}
 
 
     /*blog page css strat here*/
